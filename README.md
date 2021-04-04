@@ -1,5 +1,16 @@
 # serverjs
 simple login authentication with node.js
 
-* Item 1
-  * Item 2
+# Dependencies
+* express
+ * express-flash
+ * express-session
+* express-session
+* ejs
+* nodemon
+* dotenv
+* bcrypt
+* passport
+ * passport-local
+ * method-override
+
